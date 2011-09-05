@@ -6,7 +6,7 @@ packn can merge multiple js and coffe script files in a single js file, so an ap
 
 packn replaces the require function of node to load the packed files from created file cache.
 
-# Used Tools
+## Used Tools
 
 * [node.js](http://nodejs.org/)
 * [UglifyJS](https://github.com/mishoo/UglifyJS)
