@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+files=$(find $1 -type f -name "*.js" -printf "%p ")
+node packn.js $files
+

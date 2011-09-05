@@ -1,5 +1,10 @@
-#!/usr/bin/env node
+/*
+* packn - a packer for node js
+* author: okard
+* licensed under gplv3
+*/
 
+//node
 var fs = require("fs");
 var exec = require("child_process").exec;
 //uglify-js
